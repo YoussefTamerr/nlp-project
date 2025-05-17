@@ -1,0 +1,91 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "document": {
+      "end": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "file_size": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "id": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "kind": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "start": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "summary": {
+        "text": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "title": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "tokens": {
+          "feature": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "_type": "Sequence"
+        },
+        "url": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      },
+      "text": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "url": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "word_count": {
+        "dtype": "int64",
+        "_type": "Value"
+      }
+    },
+    "question": {
+      "text": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "tokens": {
+        "feature": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      }
+    },
+    "answers": [
+      {
+        "text": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "tokens": {
+          "feature": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "_type": "Sequence"
+        }
+      }
+    ]
+  },
+  "homepage": "",
+  "license": ""
+}

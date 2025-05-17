@@ -1,0 +1,62 @@
+question,ground_truth,prediction llama,prediction gemma,f1 llama,rougeL llama,f1 gemma,rougeL gemma
+"What is the ""second secret"" of Mari Antoinette and Alessandro Cagliostro?",The Hollow Needle,"The ""second secret"" of Marie Antoinette and Alessandro Cagliostro is the Hollow Needle, which is the hidden fortune of the kings of France.","The Hollow Needle. 
+",0.15384615384615383,0.23076923076923078,0.6666666666666666,1
+Who are the two men traveling to Hardcastle?,Charles Marlow and George Hastings,Marlow and Hastings are the two men traveling to Hardcastle.,"Marlow and Hastings 
+",0.4,0.4,0.7499999999999999,0.7499999999999999
+Who becomes engaged to Hastings?,Constance Neville,Constance becomes engaged to Hastings.,"Constance 
+",0.28571428571428575,0.28571428571428575,0.6666666666666666,0.6666666666666666
+What did Lo steal from Jen?,Her comb.,Lo stole a comb from Jen's caravan.,"Lo stole Jen's comb. 
+",0,0.2,0.3333333333333333,0.28571428571428575
+What is the name of Minna von Barnhelm's maid?,Franziska,The name of Minna von Barnhelm's maid is Franziska.,"Franziska 
+",0,0.18181818181818182,1,1
+What kind of drive propels the biocompensator's space ship?,A gravity drive.,"The novel does not specify the type of drive that propels the biocompensator's space ship. However, it is mentioned that they rig a working gravity drive, which suggests that the drive is a gravity-based propulsion system.","Gravity drive 
+",0.10256410256410256,0.14634146341463414,0.4,0.8
+When does this story take place?,1780's,I don't know. The context does not specify when the story takes place.,"I don't know. 
+",0,0,0,0
+"Who is believed, in the story, to have mastered the secret of the Hollow Needle?",Arsene Lupin.,Arsène Lupin is believed to have mastered the secret of the Hollow Needle.,"Marie Antoinette and Alessandro Cagliostro 
+",0,0.125,0,0
+What is stolen from Plover's Barrows?,Lorna's necklace with a jewel that belonged to her mother.,The necklace is stolen from Plover's Barrows.,"A necklace 
+",0.11764705882352941,0.10526315789473685,0.33333333333333337,0.15384615384615385
+How does Carlito die?,Verona shoots him,Carlito is shot to death by Verona.,"Carlito is shot to death by Verona.  
+",0,0.2,0,0.2
+What do Singleton and the sailors stop to dig for while journeying through Africa?,Gold,I don't know. The context does not mention Singleton and the sailors stopping to dig for anything while journeying through Africa.,"I don't know. 
+",0,0,0,0
+What was the island called?,Devil Island,The island is called Madagascar.,"Madagascar 
+",0.28571428571428575,0.28571428571428575,0,0
+Why does Sir George's aquaintance plan to turn Lady Frances into a fine lady?,To spite the jealous Sir George.,To spite Sir George.,"Sir George's acquaintance plans to turn Lady Frances into a fine lady to spite Sir George.  
+",0.8,0.8,0.36363636363636365,0.3478260869565218
+What were the insects after when they landed on the plants?,The bees and moths were taking nectar from the plants.,"The insects, bees and moths, were after nectar when they landed on the plants.","Nectar 
+",0.5,0.6666666666666666,0.18181818181818182,0.18181818181818182
+Who is the under boss of the Chicago Mafia?,Frank Zametti.,Frankie Zammeti.,"Frankie Zammeti 
+",0,0,0,0
+Who was Barbara Drummond?,Barbara Drummond was a patient's daughter,Barbara Drummond was a patient's daughter who came with her father from Mexico for his treatment.,"Barbara Drummond was a patient's daughter who came from Mexico with her father for treatment. 
+",0.5454545454545454,0.5833333333333334,0.5714285714285715,0.6086956521739131
+On what date is the raid executed on the compound?,02-May-11,"The raid is executed on May 2, 2011.","May 2, 2011 
+",0.36363636363636365,0.5454545454545454,1,1
+Where does John help Lorna escape to?,his family farm,I don't know. The context does not mention John helping Lorna escape to anywhere.,"I don't know. 
+",0,0,0,0
+Who does Tony want to marry instead of Constance?,A barmaid,Tony wants to marry a barmaid at the alehouse instead of Constance.,"A barmaid at the alehouse.  
+",0.2857142857142857,0.2857142857142857,0.5714285714285715,0.5714285714285715
+Where does Chuck live?,"Memphis, Tennesse",Chuck lives on a deserted island.,"On an island. 
+",0,0,0,0
+"At the end of the story, what does Marty do?",He calls Clara.,"Marty punches the bus stop sign and weaves between the cars, looking for a cab.","Marty punches the bus stop sign and weaves between the cars, looking for a cab.  
+",0,0,0,0
+Who kidnaps Picard from the Enterprise?,Shinzon.,I don't know.,"I don't know. 
+",0,0,0,0
+Where do Sam Whiskers and Anna Maria escape to?,Farmer Potatoes' barn.,I don't know. The context does not mention where Sam Whiskers and Anna Maria escape to.,"I don't know. 
+",0,0,0,0
+What did Isidore Beautrelet find when he discovers the Chateau de l'Aiguille in the department of Creuse?,The Solution to the riddle,Isidore Beautrelet thought he had found the solution to the riddle when he discovered the Château de l'Aiguille in the department of Creuse.,"He thought he had found the solution to the riddle. 
+",0.2857142857142857,0.33333333333333337,0.4,0.6666666666666666
+What did Jim do during a Miami concert that was thought to be a low point for the band?,Jim allegedly exposed himself on stage,Jim allegedly exposed himself onstage during the Miami concert.,"Jim arrived late to the concert, became confrontational with the audience, and allegedly exposed himself onstage.  
+",0.5333333333333333,0.5333333333333333,0.36363636363636365,0.36363636363636365
+What does peace need to be founded on?,the thought that mankind is one human family,Peace needs to be founded on the understanding that mankind is essentially one human family.,"The understanding that mankind is essentially one human family.  
+",0.5217391304347827,0.608695652,0.7058823529411765,0.823529412
+What knocks Conan unconscious?,A stone from a ling knocks him unconscious.,Conan is not knocked unconscious in the given context.,"I don't know. 
+",0,0.23529411764705882,0,0
+What is the latin for the American partridge-berry?,Mitchella repens,The Latin for the American partridge-berry is Mitchella repens.,"Mitchella repens 
+",0.1818181818181818,0.33333333333333337,1,1
+What is Dr. Bock's job titile?,He is the Chief of Medicine.,Dr. Bock is the Chief of Medicine.,"Chief of Medicine 
+",0.7692307692307692,0.7692307692307692,0.4444444444444444,0.6666666666666666
+What do they plan to do to the group?,murder them,"The group is being hotly pursued by the Mafia, the Latino gang, the Chicago police, and the FBI, who are trying to catch them.","They plan to pursue them. 
+",0,0.076923077,0,0.28571428571428575
+,,,,0.1,0.160707915,0.211111111,0.323529412
